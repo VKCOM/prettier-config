@@ -1,0 +1,30 @@
+{
+  "name": "@vkontakte/prettier-config",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "Prettier config from VK",
+  "main": "index.js",
+  "author": {
+    "name": "VK",
+    "url": "https://vk.com"
+  },
+  "contributors": [
+    {
+      "name": "Igor Fedorov",
+      "email": "ig.fedorov@corp.vk.com",
+      "url": "https://vk.com/xyz"
+    }
+  ],
+  "keywords": [
+    "VK",
+    "Prettier",
+    "Prettier config"
+  ],
+  "engines": {
+    "node": ">=12.0.0",
+    "yarn": "^1.21.1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
