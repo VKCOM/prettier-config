@@ -20,6 +20,7 @@
     "Prettier",
     "Prettier config"
   ],
+  "repository": "https://github.com/VKCOM/prettier-config",
   "engines": {
     "node": ">=12.0.0",
     "yarn": "^1.21.1"
