@@ -4,6 +4,7 @@
   "license": "MIT",
   "description": "Prettier config from VK",
   "main": "index.js",
+  "type": "module",
   "author": {
     "name": "VK",
     "url": "https://vk.com"
@@ -21,11 +22,11 @@
     "Prettier config"
   ],
   "repository": "https://github.com/VKCOM/prettier-config",
-  "engines": {
-    "node": ">=12.0.0",
-    "yarn": "^1.21.1"
-  },
   "peerDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^3.0.0"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e",
+  "devDependencies": {
+    "prettier": "^3.3.3"
   }
 }
