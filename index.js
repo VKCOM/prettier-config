@@ -17,3 +17,5 @@ export function createConfig(printWidth = 100) {
     quoteProps: 'consistent',
   };
 }
+
+export default createConfig();
