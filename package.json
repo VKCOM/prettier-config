@@ -26,6 +26,10 @@
     "Prettier config"
   ],
   "repository": "https://github.com/VKCOM/prettier-config",
+  "homepage": "https://github.com/VKCOM/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/VKCOM/prettier-config/issues"
+  },
   "peerDependencies": {
     "prettier": "^3.0.0"
   },
